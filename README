@@ -1,0 +1,11 @@
+Money Allocation Plan (MAP)
+This webapp written in Per/Catalyst is being developed
+to serve as a budgetting system based on the book written
+by Ethan Pope called "The Money Allocation Plan"
+
+This tool is not just a ledger used to record spending
+but it is designed to help one be disciplined in spending
+money by prompting the user to determine where the money
+will be taken from.
+
+Run script/map_server.pl to test the application.

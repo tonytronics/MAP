@@ -1,0 +1,4 @@
+
+* Create the Model for the schema we already have
+script/myapp_create.pl model MAPDb DBIC::Schema MAP::Schema "dbi:mysql:dbname=MoneyAllocationPlan", "mapuser", "mappassword"
+    
